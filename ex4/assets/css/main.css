@@ -1,0 +1,88 @@
+body {
+	background: grey;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+}
+
+#winebottle  {
+	width: 280px;
+	height: 280px;
+	background: #228B22;
+	-webkit-clip-path: polygon(32% 50%, 41% 30%, 43% 0, 50% 0, 53% 31%, 63% 49%, 66% 62%, 67% 80%, 66% 99%, 29% 100%, 28% 80%, 29% 64%);
+clip-path: polygon(32% 50%, 41% 30%, 43% 0, 50% 0, 53% 31%, 63% 49%, 66% 62%, 67% 80%, 66% 99%, 29% 100%, 28% 80%, 29% 64%);
+	position: relative;
+	 top: -600px;
+	 left: 90px;
+}
+
+#table {
+	width: 900px;
+	height: 150px;
+	background: #CD853F;
+	top: 420px;
+	left: 0px;
+	position: absolute;
+}
+
+#circle {
+	width: 80px;
+	height: 80px;
+	background: #1e90ff;
+	-webkit-clip-path: polygon(48% 2%, 68% 0, 88% 21%, 100% 55%, 84% 83%, 49% 90%, 18% 84%, 0 61%, 8% 27%, 26% 0);
+clip-path: polygon(48% 2%, 68% 0, 88% 21%, 100% 55%, 84% 83%, 49% 90%, 18% 84%, 0 61%, 8% 27%, 26% 0);
+position: relative;
+top: -670px;
+left: 320px;
+}
+
+#circle2 {
+	width: 80px;
+	height: 80px;
+	background: #1e90ff;
+	-webkit-clip-path: polygon(48% 2%, 68% 0, 88% 21%, 100% 55%, 84% 83%, 49% 90%, 18% 84%, 0 61%, 8% 27%, 26% 0);
+clip-path: polygon(48% 2%, 68% 0, 88% 21%, 100% 55%, 84% 83%, 49% 90%, 18% 84%, 0 61%, 8% 27%, 26% 0);
+position: relative;
+top: -750px;
+left: 420px;
+}
+
+#glass {
+	width: 80px;
+	height: 80px;
+	background: #1e90ff;
+	-webkit-clip-path: polygon(42% 77%, 48% 66%, 46% 53%, 60% 53%, 57% 66%, 63% 78%, 70% 87%, 86% 96%, 65% 100%, 42% 100%, 19% 96%, 36% 87%);
+clip-path: polygon(42% 77%, 48% 66%, 46% 53%, 60% 53%, 57% 66%, 63% 78%, 70% 87%, 86% 96%, 65% 100%, 42% 100%, 19% 96%, 36% 87%);
+position: relative;
+top: -810px;
+left: 417px;
+}
+
+#glass2 {
+	width: 80px;
+	height: 80px;
+	background: #1e90ff;
+	-webkit-clip-path: polygon(42% 77%, 48% 66%, 46% 53%, 60% 53%, 57% 66%, 63% 78%, 70% 87%, 86% 96%, 65% 100%, 42% 100%, 19% 96%, 36% 87%);
+clip-path: polygon(42% 77%, 48% 66%, 46% 53%, 60% 53%, 57% 66%, 63% 78%, 70% 87%, 86% 96%, 65% 100%, 42% 100%, 19% 96%, 36% 87%);
+position: relative;
+top: -890px;
+left: 317px;
+}
+
+
+#tablecloth {
+	width: 1000px;
+	height: 800px;
+	background: yellow;
+	-webkit-clip-path: polygon(12% 84%, 80% 84%, 89% 100%, 19% 100%);
+clip-path: polygon(12% 84%, 80% 84%, 89% 100%, 19% 100%);
+	 position: relative;
+	 top: -250px;
+	 left: -30px;
+}
+
