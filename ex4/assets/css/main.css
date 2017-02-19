@@ -88,6 +88,7 @@ clip-path: polygon(12% 84%, 80% 84%, 89% 100%, 19% 100%);
 	 position: relative;
 	 top: -250px;
 	 left: -30px;
+
 }
 
 #heart {
@@ -129,6 +130,16 @@ clip-path: polygon(12% 84%, 80% 84%, 89% 100%, 19% 100%);
         -ms-transform-origin: 100% 100%;
          -o-transform-origin: 100% 100%;
             transform-origin :100% 100%;
+}
+.htype1{
+  font-size: 3.4em;
+      color: white;
+      position: absolute;
+      left: 310px;
+      top: 80px;
+      line-height: 39pt;
+      text-align: center;
+      font-family: 'Dancing Script', cursive;
 }
 #line {
 	width: 1px;
@@ -292,4 +303,53 @@ body {
 	align-items: center;
 }
 
+#flower2
+	 {
+	 	top: 230px;
+	left: 620px;
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	background: red;
+	-webkit-clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#bottlebrand {
+	position: absolute;
+	 top: 225px;
+	 left: 205px;
+	border-bottom: 80px solid #8FBC8F;
+	border-left: 7px solid transparent;
+	border-right: 19px solid transparent;
+	height: 0;
+	width: 12px;
+}
+
+#bottlebrand1 {
+	position: absolute;
+	 top: 360px;
+	 left: 168px;
+	width: 110px;
+	height: 110px;
+	background: #8FBC8F;
+	-webkit-clip-path: polygon(36% 38%, 75% 37%, 100% 29%, 100% 70%, 80% 89%, 31% 90%, 0% 70%, 0% 30%);
+clip-path: polygon(36% 38%, 75% 37%, 100% 29%, 100% 70%, 80% 89%, 31% 90%, 0% 70%, 0% 30%);
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
