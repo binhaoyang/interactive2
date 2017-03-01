@@ -1,44 +1,264 @@
 body {
 	
-	background-image: url(typeweb.png);
-	position: all;
+	
 }
 
+.boxx1{
+	/*background-image: url(typeweb.png);*/
+	position: absolute;
+	width: 1366px;
+	height: 1102px;
+}
+
+
+.p1{
+	top: 20px;
+	left: 20px;
+	position: absolute;
+}
+
+.p2{
+	top: 20px;
+	left: 40px;
+	position: absolute;
+}
+.p3{
+	top: 20px;
+	left: 60px;
+	position: absolute;
+	transform-origin: center;
+}
+.p4{
+	top: 20px;
+	left: 80px;
+	position: absolute;
+	transform-origin: center;
+}
+.p5{
+	top: 20px;
+	left: 100px;
+	position: absolute;
+	transform-origin: center;
+}
+.p6{
+	top: 20px;
+	left: 120px;
+	position: absolute;
+}
+.p7{
+	top: 40px;
+	left: 20px;
+	position: absolute;
+}
+.p8{
+	top: 40px;
+	left: 40px;
+	position: absolute;
+}
+.p9{
+	top: 40px;
+	left: 60px;
+	position: absolute;
+}
+.p10{
+	top: 40px;
+	left: 80px;
+	position: absolute;
+}
+.p11{
+	top: 40px;
+	left: 100px;
+	position: absolute;
+}
+.p12{
+	top: 40px;
+	left: 120px;
+	position: absolute;
+}
+.p13{
+	top: 60px;
+	left: 20px;
+	position: absolute;
+}
+.p14{
+	top: 60px;
+	left: 40px;
+	position: absolute;
+}
+.p15{
+	top: 60px;
+	left: 60px;
+	position: absolute;
+}
+.p16{
+	top: 60px;
+	left: 80px;
+	position: absolute;
+}
+.p17{
+	top: 60px;
+	left: 100px;
+	position: absolute;
+}
+.p18{
+	top: 60px;
+	left: 120px;
+	position: absolute;
+}
+.p19{
+	top: 80px;
+	left: 20px;
+	position: absolute;
+}
+.p20{
+	top: 80px;
+	left: 40px;
+	position: absolute;
+}
+.p21{
+	top: 80px;
+	left: 60px;
+	position: absolute;
+}
+.p22{
+	top: 80px;
+	left: 80px;
+	position: absolute;
+}
+.p23{
+	top: 80px;
+	left: 100px;
+	position: absolute;
+}
+.p24{
+	top: 80px;
+	left: 120px;
+	position: absolute;
+}
+.p25{
+	top: 100px;
+	left: 20px;
+	position: absolute;
+}
+.p26{
+	top: 100px;
+	left: 40px;
+	position: absolute;
+}
+.p27{
+	top: 100px;
+	left: 60px;
+	position: absolute;
+}
+.p28{
+	top: 100px;
+	left: 80px;
+	position: absolute;
+}
+.p29{
+	top: 100px;
+	left: 100px;
+	position: absolute;
+}
+.p30{
+	top: 100px;
+	left: 120px;
+	position: absolute;
+}
+.p31{
+	top: 120px;
+	left: 20px;
+	position: absolute;
+}
+.p32{
+	top: 120px;
+	left: 40px;
+	position: absolute;
+}
+.p33{
+	top: 120px;
+	left: 60px;
+	position: absolute;
+}
+.p34{
+	top: 120px;
+	left: 80px;
+	position: absolute;
+}
+.p35{
+	top: 120px;
+	left: 100px;
+	position: absolute;
+}
+.p36{
+	top: 120px;
+	left: 120px;
+	position: absolute;
+}
+
+
+
 .circle1 {
-	width: 10px;
-	height: 10px;
+	width: 5px;
+	height: 5px;
+	background: blue;
+	border-radius: 50%;
+
+	top: 50%;
+    left: 50%;
+    margin-top: -2px;
+    margin-left: -2px;
+}
+
+.circle2 {
+	width: 7px;
+	height: 7px;
 	background: blue;
 	border-radius: 200px;
+
+	top: 50%;
+    left: 50%;
+    margin-top: -3px;
+    margin-left: -3px;
 }
-.circle2 {
+
+.circle3 {
+	width: 12px;
+	height: 12px;
+	background: blue;
+	border-radius: 200px;
+
+	top: 50%;
+    left: 50%;
+    margin-top: -6px;
+    margin-left: -6px;
+}
+
+.circle4 {
+	width: 15px;
+	height: 15px;
+	background: blue;
+	border-radius: 200px;
+
+	top: 50%;
+    left: 50%;
+    margin-top: -7px;
+    margin-left: -7px;
+}
+
+.circle5 {
 	width: 20px;
 	height: 20px;
 	background: blue;
 	border-radius: 200px;
-
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -10px;
+    margin-left: -10px;
 }
-.circle3 {
-	width: 30px;
-	height: 30px;
-	background: blue;
-	border-radius: 200px;
-}
-.circle4 {
-	width: 40px;
-	height: 40px;
-	background: blue;
-	border-radius: 200px;
-}
-.circle5 {
-	width: 50px;
-	height: 50px;
-	background: blue;
-	border-radius: 200px;
-}
-
-
 .canvas-A {
-	top: 70px;
+	top: 75px;
 	left: 70px;
 	width: 140px;
 	height: 140px;
@@ -48,15 +268,11 @@ body {
 	position: absolute;
 }
 
-.a1 {
-	top: 20px;
-	left: 20px;
-	position: relative;
-}
+
 
 
 .canvas-B {
-	top: 70px;
+	top: 75px;
 	left: 210px;
 	width: 140px;
 	height: 140px;
@@ -67,8 +283,8 @@ body {
 }
 
 .canvas-C {
-	top: 70px;
-	left: 360px;
+	top: 75px;
+	left: 350px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -78,8 +294,8 @@ body {
 }
 
 .canvas-D {
-	top: 70px;
-	left: 500px;
+	top: 75px;
+	left: 490px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -89,8 +305,8 @@ body {
 }
 
 .canvas-E {
-	top: 70px;
-	left: 650px;
+	top: 75px;
+	left: 630px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -100,8 +316,8 @@ body {
 }
 
 .canvas-F {
-	top: 70px;
-	left: 800px;
+	top: 75px;
+	left: 770px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -111,8 +327,8 @@ body {
 }
 
 .canvas-G {
-	top: 70px;
-	left: 940px;
+	top: 75px;
+	left: 910px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -123,8 +339,8 @@ body {
 
 
 .canvas-H {
-	top: 70px;
-	left: 1080px;
+	top: 75px;
+	left: 1050px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -135,7 +351,7 @@ body {
 
 
 .canvas-I {
-	top: 212px;
+	top: 220px;
 	left: 70px;
 	width: 140px;
 	height: 140px;
@@ -146,7 +362,7 @@ body {
 }
 
 .canvas-J {
-	top: 212px;
+	top: 220px;
 	left: 210px;
 	width: 140px;
 	height: 140px;
@@ -158,8 +374,8 @@ body {
 
 
 .canvas-K {
-	top: 212px;
-	left: 360px;
+	top: 220px;
+	left: 350px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -169,8 +385,8 @@ body {
 }
 
 .canvas-L {
-	top: 212px;
-	left: 500px;
+	top: 220px;
+	left: 490px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -180,8 +396,8 @@ body {
 }
 
 .canvas-M {
-	top: 212px;
-	left: 645px;
+	top: 220px;
+	left: 630px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -191,8 +407,8 @@ body {
 }
 
 .canvas-N {
-	top: 212px;
-	left: 800px;
+	top: 220px;
+	left: 770px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -202,8 +418,8 @@ body {
 }
 
 .canvas-O {
-	top: 212px;
-	left: 940px;
+	top: 220px;
+	left: 910px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -213,8 +429,8 @@ body {
 }
 
 .canvas-P {
-	top: 212px;
-	left: 1080px;
+	top: 220px;
+	left: 1050px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -224,8 +440,8 @@ body {
 }
 
 .canvas-Q {
-	top: 354px;
-	left: 70px;
+	top: 365px;
+	left:70px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -235,7 +451,7 @@ body {
 }
 
 .canvas-R {
-	top: 354px;
+	top: 365px;
 	left: 210px;
 	width: 140px;
 	height: 140px;
@@ -246,8 +462,8 @@ body {
 }
 
 .canvas-S {
-	top: 354px;
-	left: 360px;
+	top: 365px;
+	left: 350px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -257,8 +473,8 @@ body {
 }
 
 .canvas-T {
-	top: 354px;
-	left: 500px;
+	top: 365px;
+	left: 490px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -268,8 +484,8 @@ body {
 }
 
 .canvas-U {
-	top: 354px;
-	left: 650px;
+	top: 365px;
+	left: 630px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -279,8 +495,8 @@ body {
 }
 
 .canvas-V {
-	top: 354px;
-	left: 800px;
+	top: 365px;
+	left: 770px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -290,8 +506,8 @@ body {
 }
 
 .canvas-W {
-	top: 354px;
-	left: 940px;
+	top: 365px;
+	left: 910px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -301,8 +517,8 @@ body {
 }
 
 .canvas-X {
-	top: 354px;
-	left: 1080px;
+	top: 365px;
+	left: 1050px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -313,7 +529,7 @@ body {
 
 
 .canvas-Y {
-	top: 500px;
+	top: 510px;
 	left: 70px;
 	width: 140px;
 	height: 140px;
@@ -324,7 +540,7 @@ body {
 }
 
 .canvas-Z {
-	top: 500px;
+	top: 510px;
 	left: 210px;
 	width: 140px;
 	height: 140px;
@@ -335,8 +551,8 @@ body {
 }
 
 .canvas-0 {
-	top: 500px;
-	left: 360px;
+	top: 510px;
+	left: 350px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -346,8 +562,8 @@ body {
 }
 
 .canvas-1 {
-	top: 500px;
-	left: 500px;
+	top: 510px;
+	left: 490px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -357,8 +573,8 @@ body {
 }
 
 .canvas-2 {
-	top: 500px;
-	left: 650px;
+	top: 510px;
+	left: 630px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -368,8 +584,8 @@ body {
 }
 
 .canvas-3 {
-	top: 500px;
-	left: 800px;
+	top: 510px;
+	left: 770px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -379,8 +595,8 @@ body {
 }
 
 .canvas-4 {
-	top: 500px;
-	left: 940px;
+	top: 510px;
+	left: 910px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -390,8 +606,8 @@ body {
 }
 
 .canvas-5 {
-	top: 500px;
-	left: 1080px;
+	top: 510px;
+	left: 1050px;
 	width: 140px;
 	height: 140px;
 	margin: 3px;
@@ -401,7 +617,7 @@ body {
 }
 
 .canvas-6 {
-	top: 642px;
+	top: 655px;
 	left: 360px;
 	width: 140px;
 	height: 140px;
@@ -412,7 +628,7 @@ body {
 }
 
 .canvas-7 {
-	top: 642px;
+	top: 655px;
 	left: 500px;
 	width: 140px;
 	height: 140px;
@@ -423,7 +639,7 @@ body {
 }
 
 .canvas-8 {
-	top: 642px;
+	top: 655px;
 	left: 650px;
 	width: 140px;
 	height: 140px;
@@ -434,7 +650,7 @@ body {
 }
 
 .canvas-9 {
-	top: 642px;
+	top: 655px;
 	left: 800px;
 	width: 140px;
 	height: 140px;
