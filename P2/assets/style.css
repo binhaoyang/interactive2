@@ -1,0 +1,1557 @@
+body {
+	
+	
+}
+
+
+
+.boxx1{
+	/*background-image: url(typeweb.png);*/
+	position: absolute;
+	width: 20000px;
+	height: 1102px;
+	background-color: black;
+}
+
+
+@keyframes stretch {
+  0% {
+    transform: scale(.2);
+    background-color: ;
+    border-radius: 100%;
+  }
+  50% {
+    background-color: ;
+  }
+  100% {
+    transform: scale(2);
+    background-color: ;
+  }
+}
+
+
+body,
+html {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+  
+
+
+.p1{
+	top: 20px;
+	left: 20px;
+	position: absolute;
+
+}
+
+.p2{
+	top: 20px;
+	left: 40px;
+	position: absolute;
+}
+.p3{
+	top: 20px;
+	left: 60px;
+	position: absolute;
+	transform-origin: center;
+}
+.p4{
+	top: 20px;
+	left: 80px;
+	position: absolute;
+	transform-origin: center;
+}
+.p5{
+	top: 20px;
+	left: 100px;
+	position: absolute;
+	transform-origin: center;
+}
+.p6{
+	top: 20px;
+	left: 120px;
+	position: absolute;
+}
+.p7{
+	top: 40px;
+	left: 20px;
+	position: absolute;
+}
+.p8{
+	top: 40px;
+	left: 40px;
+	position: absolute;
+}
+.p9{
+	top: 40px;
+	left: 60px;
+	position: absolute;
+}
+.p10{
+	top: 40px;
+	left: 80px;
+	position: absolute;
+}
+.p11{
+	top: 40px;
+	left: 100px;
+	position: absolute;
+}
+.p12{
+	top: 40px;
+	left: 120px;
+	position: absolute;
+}
+.p13{
+	top: 60px;
+	left: 20px;
+	position: absolute;
+}
+.p14{
+	top: 60px;
+	left: 40px;
+	position: absolute;
+}
+.p15{
+	top: 60px;
+	left: 60px;
+	position: absolute;
+}
+.p16{
+	top: 60px;
+	left: 80px;
+	position: absolute;
+}
+.p17{
+	top: 60px;
+	left: 100px;
+	position: absolute;
+}
+.p18{
+	top: 60px;
+	left: 120px;
+	position: absolute;
+}
+.p19{
+	top: 80px;
+	left: 20px;
+	position: absolute;
+}
+.p20{
+	top: 80px;
+	left: 40px;
+	position: absolute;
+}
+.p21{
+	top: 80px;
+	left: 60px;
+	position: absolute;
+}
+.p22{
+	top: 80px;
+	left: 80px;
+	position: absolute;
+}
+.p23{
+	top: 80px;
+	left: 100px;
+	position: absolute;
+}
+.p24{
+	top: 80px;
+	left: 120px;
+	position: absolute;
+}
+.p25{
+	top: 100px;
+	left: 20px;
+	position: absolute;
+}
+.p26{
+	top: 100px;
+	left: 40px;
+	position: absolute;
+}
+.p27{
+	top: 100px;
+	left: 60px;
+	position: absolute;
+}
+.p28{
+	top: 100px;
+	left: 80px;
+	position: absolute;
+}
+.p29{
+	top: 100px;
+	left: 100px;
+	position: absolute;
+}
+.p30{
+	top: 100px;
+	left: 120px;
+	position: absolute;
+}
+.p31{
+	top: 120px;
+	left: 20px;
+	position: absolute;
+}
+.p32{
+	top: 120px;
+	left: 40px;
+	position: absolute;
+}
+.p33{
+	top: 120px;
+	left: 60px;
+	position: absolute;
+}
+.p34{
+	top: 120px;
+	left: 80px;
+	position: absolute;
+}
+.p35{
+	top: 120px;
+	left: 100px;
+	position: absolute;
+}
+.p36{
+	top: 120px;
+	left: 120px;
+	position: absolute;
+}
+
+
+
+.circle1 {
+	width: 5px;
+	height: 5px;
+	background: #fe70bd;
+	border-radius: 50%;
+
+	top: 50%;
+    left: 50%;
+    margin-top: -2px;
+    margin-left: -2px;
+}
+
+.circle2 {
+	width: 7px;
+	height: 7px;
+	background: #fe249a;
+	border-radius: 200px;
+
+	top: 50%;
+    left: 50%;
+    margin-top: -3px;
+    margin-left: -3px;
+}
+
+.circle3 {
+	width: 12px;
+	height: 12px;
+	background: #af005f;
+	border-radius: 200px;
+
+	top: 50%;
+    left: 50%;
+    margin-top: -6px;
+    margin-left: -6px;
+
+}
+
+.circle4 {
+	width: 15px;
+	height: 15px;
+	background: #fe37a2;
+	border-radius: 200px;
+
+	top: 50%;
+    left: 50%;
+    margin-top: -7px;
+    margin-left: -7px;
+    
+}
+
+.circle5 {
+	width: 18px;
+	height: 18px;
+	background: #FE4CF2;
+	border-radius: 200px;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -9px;
+    margin-left: -9px;
+
+
+}
+
+@keyframes stretch-1 {
+  0% {
+    transform: scale(.2);
+    background-color: ;
+    border-radius: 100%;
+  }
+  50% {
+    background-color: ;
+  }
+  100% {
+    transform: scale(0.5);
+    background-color: ;
+  }
+}
+
+
+.canvas-B1 {
+	top: 305px;
+	left: 3000px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-1;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-E1 {
+	top: 305px;
+	left: 3200px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-1;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-A1 {
+	top: 305px;
+	left: 3400px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-1;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+.canvas-U1 {
+	top: 305px;
+	left: 3600px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-1;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+@keyframes stretch-6 {
+  0% {
+    transform: scale(3);
+    background-color: ;
+    border-radius: 100%;
+  }
+  50% {
+    background-color: ;
+  }
+  100% {
+    transform: scale(13);
+    background-color: ;
+  }
+}
+
+.canvas-T1 {
+	top: 305px;
+	left: 3900px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-6;
+  animation-duration: 2s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-I1 {
+	top: 305px;
+	left: 4100px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-1;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-F1 {
+	top: 305px;
+	left: 4300px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-1;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-U2 {
+	top: 305px;
+	left: 4500px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-1;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-L1 {
+	top: 305px;
+	left: 4700px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-1;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+@keyframes stretch-2 {
+  0% {
+    transform: scale(0.5);
+    background-color: ;
+    border-radius: 100%;
+  }
+  50% {
+    background-color: ;
+  }
+  100% {
+    transform: scale(1);
+    background-color: ;
+  }
+}
+
+.canvas-S1 {
+	top: 305px;
+	left: 60px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-2;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-C1 {
+	top: 310px;
+	left: 170px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-2;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-A2 {
+	top: 305px;
+	left: 280px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-2;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-R1 {
+	top: 305px;
+	left: 390px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-2;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-S2 {
+	top: 305px;
+	left: 500px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-2;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+@keyframes stretch-3 {
+  0% {
+    transform: scale(0.5);
+    background-color: ;
+    border-radius: 100%;
+  }
+  50% {
+    background-color: ;
+  }
+  100% {
+    transform: scale(3);
+    background-color: ;
+  }
+}
+
+.canvas-T2 {
+	top: 305px;
+	left: 800px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-3;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-O3 {
+	top: 305px;
+	left: 900px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-3;
+  animation-duration: 2s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 1s;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+@keyframes stretch-4 {
+  0% {
+    transform: scale(0.5);
+    background-color: ;
+    border-radius: 100%;
+  }
+  50% {
+    background-color: ;
+  }
+  100% {
+    transform: scale(5);
+    background-color: ;
+  }
+}
+.canvas-Y1 {
+	top: 305px;
+	left: 1400px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-4;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-O2 {
+	top: 305px;
+	left: 1700px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-4;
+  animation-duration: 2s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-U3 {
+	top: 305px;
+	left: 2000px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-4;
+  animation-duration: 3s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-R2 {
+	top: 305px;
+	left: 2300px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch-4;
+  animation-duration: 4s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+
+
+
+
+
+
+
+
+
+.canvas-A {
+	top: 75px;
+	left: 6000px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+
+  animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.animarun{
+animation-play-state: paused;	
+}
+
+.canvas-B {
+	top: 75px;
+	left: 6230px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+
+/*
+.canvas-B:hover {
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}*/
+
+
+
+
+.canvas-C {
+	top: 75px;
+	left: 6530px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: backwards;
+  animation-play-state: running;
+}
+
+.canvas-D {
+	top: 75px;
+	left: 6760px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forwards;
+  animation-play-state: running;
+}
+
+.canvas-E {
+	top: 75px;
+	left: 6990px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: both;
+  animation-play-state: running;
+}
+
+.canvas-F {
+	top: 75px;
+	left: 7220px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-G {
+	top: 75px;
+	left: 7450px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-H {
+	top: 75px;
+	left: 7680px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-I {
+	top: 75px;
+	left: 7910px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-in; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-J {
+	top: 75px;
+	left: 8140px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-in-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-K {
+	top: 75px;
+	left: 8370px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: linear; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-L {
+	top: 75px;
+	left: 8600px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: cubic-bezier(0.1, 0.2, 0.3, 0.4); 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-M {
+	top: 75px;
+	left: 8830px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-N {
+	top: 305px;
+	left: 6000px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-O {
+	top: 305px;
+	left: 6300px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-P {
+	top: 305px;
+	left: 6530px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-Q {
+	top: 305px;
+	left: 6760px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-R {
+	top: 305px;
+	left: 6990px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-S {
+	top: 305px;
+	left: 7220px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-T {
+	top: 305px;
+	left: 7450px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-U {
+	top: 305px;
+	left: 7680px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-V {
+	top: 305px;
+	left: 7910px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-W {
+	top: 305px;
+	left: 8140px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-X {
+	top: 305px;
+	left: 8370px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-Y {
+	top: 305px;
+	left: 8600px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-Z {
+	top: 305px;
+	left: 8830px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-0 {
+	top: 535px;
+	left: 6000px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-1 {
+	top: 535px;
+	left: 6300px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-2 {
+	top: 535px;
+	left: 6530px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-3 {
+	top: 535px;
+	left: 6760px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-4 {
+	top: 535px;
+	left: 6990px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-5 {
+	top: 535px;
+	left: 7220px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-6 {
+	top: 535px;
+	left: 7450px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-7 {
+	top: 535px;
+	left: 7680px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-8 {
+	top: 535px;
+	left: 7910px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-9 {
+	top: 535px;
+	left: 8140px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-10 {
+	top: 535px;
+	left: 8370px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-11 {
+	top: 535px;
+	left: 8600px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-12 {
+	top: 535px;
+	left: 8830px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-13 {
+	top: 535px;
+	left: 9060px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-14 {
+	top: 535px;
+	left: 9290px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1.5s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+.canvas-15 {
+	top: 535px;
+	left: 9520px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-P1 {
+	top: 75px;
+	left: 5000px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 2s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+.canvas-O1{
+	top: 305px;
+	left: 5300px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 1s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+
+
+
+.canvas-P2 {
+	top: 505px;
+	left: 5600px;
+	width: 140px;
+	height: 140px;
+	margin: 3px;
+	position: absolute;
+	animation-name: stretch;
+  animation-duration: 2s; 
+  animation-timing-function: ease-out; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: none;
+  animation-play-state: running;
+}
+.button {
+    position: absolute;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    right: 9600PX;
+    top: 10PX;
+  }
+
+  .music{
+    position: relative;
+    left: 9600px;
+    top: 10px;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
