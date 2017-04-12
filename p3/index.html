@@ -1,0 +1,65 @@
+
+<html>
+<head>
+	<title>:rineke dijkstra</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+</head>
+<script>
+
+
+	$(document).ready(function(){
+	$("#beach").on('ended',function(){
+  			$("#play-vid").show();
+  			$("#pause-vid").hide();
+    	});
+
+  	});
+
+
+</script>
+<p>
+	<video id="beach" width="1366" height="768">
+		  <source src="assets/img/beach.mp4" type="video/mp4">
+		</video>
+		</p>
+
+		<video poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/polina.jpg" id="bgvid" playsinline autoplay loop>
+<source src="assets/img/beach.mp4" type="video/mp4">
+<source src="assets/img/beach.mp4" type="video/mp4">
+</video>
+
+<marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">Kolobrzeg, Poland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kolobrzeg, Poland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hilton Head Island, S. C., USA</marquee>
+
+
+<body>
+	<div id="container">
+
+		<p id="image-paragraph">	
+			<img src="assets/img/1a.jpg" id="image-1" />
+			<img src="assets/img/2a.jpg" id="image-2" />
+			<img src="assets/img/3a.jpg" id="image-3" />
+			<img src="assets/img/4a.jpg" id="image-4" />
+		</p>
+	</div>
+	
+
+
+<marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">26 July 1992&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;July 23 1992' 1992&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</marquee>
+
+<audio class="music" controls autoplay="" >
+  <source src="assets/img/videoplayback (6).mp4" type="audio/ogg">
+  <source src="assets/img/videoplayback (6).mp4" type="audio/ogg" type="audio/mpeg">
+</audio>
+
+
+
+
+<!-- Scripts -->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="assets/css/js/script.js"></script>
+
+
+</body>
+</html>

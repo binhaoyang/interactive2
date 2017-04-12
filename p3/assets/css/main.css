@@ -1,0 +1,164 @@
+
+
+body {
+  margin: 0;
+  background: #000; 
+}
+
+video { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+    transition: 1s opacity;
+}
+
+.marquee{
+	position: fixed;
+	top: 100px;
+	width: auto;
+}
+
+.red-circle {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background: red;
+    position: absolute;
+    bottom: 25px;
+    right: 25px;
+}
+
+.music{
+	position: relative;
+	left: 20px;
+	top: 650px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e
+/* reset */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* type */
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    text-align: left;
+    font-size: 45px;
+
+    overflow-x: hidden;
+
+}
+
+/* structure */
+
+#container {
+	width: 100%;
+	height: 100%;
+}
+
+#container p {
+	position: relative;
+	left: 50%;
+	top: 10px;
+	margin-left: -140px;
+	width: 500px;
+	height: 638px;
+	background-image: url(../img/layer01.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+ul {
+	font-size: 20px;
+	list-style-type: square;
+
+}
+
+li {
+	width: 350px;
+	padding-right: 100px;
+	height: 200px;
+	float: left;
+	display: block;
+}
+
+#image-paragraph img {
+	z-index: 0;
+	position: absolute;
+	max-width: 300px;
+	opacity: 0;
+	-webkit-transition: all 1s ease-in-out;
+	-webkit-transform: translate(400px, 0px);
+}
+
+p#image-paragraph:hover img {
+	opacity: 1;
+	-webkit-transform: translate(0px, 0px);
+}
+
+/* each image is given its own transition delay, so they occur in an order when hovered on */
+
+p#image-paragraph #image-1 {
+	right: : 90px;
+	top: 10px;
+	-webkit-transition-delay: 0s;
+	-webkit-transform: translate(-500px, 0px);	
+}
+
+p#image-paragraph #image-2 {
+	right: 90px;
+	top: 10px;
+	-webkit-transition-delay: 1s;
+	-webkit-transform: translate(-300px, 0px);
+}
+
+p#image-paragraph #image-3 {
+	right: : 90px;
+	top: 10px;
+	-webkit-transition-delay: 2s;
+	-webkit-transform: translate(120px, 0px);
+}
+
+p#image-paragraph #image-4 {
+	right: 90px;
+	top: 10px;
+	-webkit-transition-delay: 3s;
+	-webkit-transform: translate(320px, 0px);	
+}
+
+
+
+.top00{
+
+	widows: 100px;
+	height: 100px;
+}
