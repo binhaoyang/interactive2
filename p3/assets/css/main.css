@@ -137,21 +137,21 @@ p#image-paragraph #image-1 {
 p#image-paragraph #image-2 {
 	right: 90px;
 	top: 10px;
-	-webkit-transition-delay: 1s;
+	-webkit-transition-delay: 0.8s;
 	-webkit-transform: translate(-300px, 0px);
 }
 
 p#image-paragraph #image-3 {
 	right: : 90px;
 	top: 10px;
-	-webkit-transition-delay: 2s;
+	-webkit-transition-delay: 1.6s;
 	-webkit-transform: translate(120px, 0px);
 }
 
 p#image-paragraph #image-4 {
 	right: 90px;
 	top: 10px;
-	-webkit-transition-delay: 3s;
+	-webkit-transition-delay: 2.4s;
 	-webkit-transform: translate(320px, 0px);	
 }
 
